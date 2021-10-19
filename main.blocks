@@ -1,18 +1,18 @@
 <xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="|hIWy%A{L{H[YTQ8^M`~">mySprite</variable><variable type="KIND_SpriteKind" id="x$,~S+aUOLtAa^6e*ENY">Player</variable><variable type="KIND_SpriteKind" id="pY8{x.{G;nY`@/|a]vdW">Projectile</variable><variable type="KIND_SpriteKind" id="9Q*#v[VI7g5KM4~G20pr">Food</variable><variable type="KIND_SpriteKind" id="8sAf^w46c{0ZoQv3cgU(">Enemy</variable></variables><block type="pxt-on-start" id="[a^vA`W/JcapD@W20SL7" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="/4d}Ysc+wU.=dU^MD)]G"><field name="VAR" id="|hIWy%A{L{H[YTQ8^M`~">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="1X7H#74kSgT5xsJw4mG~"><value name="img"><shadow type="screen_image_picker" id="R,,w!S{{{9+yAW^?gSIc"><field name="img">img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
+. . . . 1 1 . 1 1 1 . . . . . . 
+. . . 1 . . 1 1 1 1 1 . . . . . 
+. . 1 . . . 1 . . . 1 1 . . . . 
+. 1 . 1 1 1 . . . . 1 1 . . . . 
+. 1 . 1 1 1 1 1 1 . . 1 . . . . 
+. 1 1 1 1 1 1 1 . 1 . 1 . . . . 
+1 1 1 1 1 1 1 1 1 . 1 1 . . . . 
+1 1 1 1 1 1 1 1 1 . 1 1 . . . . 
+1 1 1 1 1 1 1 1 1 . 1 1 . . . . 
+1 1 1 1 1 1 1 1 1 1 1 1 . . . . 
+1 1 1 1 1 1 1 1 1 1 1 . . . . . 
+1 1 1 1 1 1 1 1 1 1 1 . . . . . 
+1 1 1 1 1 1 1 1 1 1 1 1 1 . . . 
+1 . . 1 1 1 1 1 1 1 1 1 . . . . 
+1 . . . . . . . . . . . . . . . 
+1 . . . . . . . . . . . . . . . 
 `</field><data>{"commentRefs":[],"fieldData":{"img":"R,,w!S{{{9+yAW^?gSIc"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="fg)k$nZM3#@P%,a=i;g;"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
