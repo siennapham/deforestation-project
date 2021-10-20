@@ -153,8 +153,6 @@ mySprite = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
     `, SpriteKind.Player)
 controller.moveSprite(mySprite, 100, 0)
 mySprite.ay = 350
